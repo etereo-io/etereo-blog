@@ -1,3 +1,4 @@
-h1. etéreo-blog
+etéreo-blog
+===========
 
 People-ware from etéreo People
